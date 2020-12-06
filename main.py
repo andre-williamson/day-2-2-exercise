@@ -4,13 +4,6 @@ weight = input("enter your weight in kg: ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-
-
-
-
-
-
-
-
-
-
+Height = float(height)
+Weight = float(weight)
+print(float(Weight/Height**2))
